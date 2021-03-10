@@ -28,7 +28,7 @@ You must comply with the order of modules, since the outputs of a module are inp
 
 This workshop has been designed assuming that each participant is using an AWS account that has been provided and pre-configured by the workshop instructor(s). However, you can also choose to use your own AWS account, but you'll have to execute some preliminary configuration steps as described <a href="setup/">here</a>.
 
-Once you are ready to go, please start with <a href="01_configure_sagemaker_studio/">**Module 01**</a>.
+Once you are ready to go, please start with [**Module 01**](labs/01_configure_sagemaker_studio/).
 
 ## Security
 
