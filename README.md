@@ -17,7 +17,7 @@ The previous steps are generally repeated multiple times to better meet business
 
 This workshops consists of six modules:
 
-- [**Module 01**](labs/01_configure_sagemaker_studio/): Configure Amazon SageMaker Studio and serverless Jupyter notebooks.
+- [**Module 01**](labs/01_configure_sagemaker_studio/): Configure Amazon SageMaker Studio and Jupyter notebooks kernel.
 - [**Module 02**](labs/02_initial_notebook/): Initial Notebook - TODO - Add more details.
 - [**Module 03**](labs/03_manual_sagemaker_process_train/): Manual SageMaker process training - TODO - Add more details.
 - [**Module 04**](labs/04_workflow_sm_pipelines/): SageMaker Pipelines - TODO - Add more details.
