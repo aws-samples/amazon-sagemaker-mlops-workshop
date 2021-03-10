@@ -1,7 +1,7 @@
-#MLOps workshop with Amazon SageMaker
+# MLOps workshop with Amazon SageMaker
 
 # Workshop Instructions
-_Note:  This workshop will create an ephemeral AWS acccount for each attendee.  This ephemeral account is not accessible after the workshop.  You can, of course, clone this GitHub repo and reproduce the entire workshop in your own AWS Account._
+_Note: This workshop will create an ephemeral AWS acccount for each attendee.  This ephemeral account is not accessible after the workshop.  You can, of course, clone this GitHub repo and reproduce the entire workshop in your own AWS Account._
 
 ## 0. Logout of All AWS Consoles Across All Browser Tabs
 If you do not logout of existing AWS Consoles, things will not work properly.
