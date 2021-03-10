@@ -61,7 +61,7 @@ Click the Git icon (1 in the picture) and then select `Clone a repository` (step
 
 ![Clone the repository](img/smstudio_clone_repo_steps.jpg)
 
-Type in the URL of this repository (https://github.com/shneydor/amazon-sagemaker-build-train-deploy.git) and click `Clone`.
+Type in the URL of this repository (https://github.com/aws-samples/amazon-sagemaker-mlops-startup-workshop.git) and click `Clone`.
 
 ![Clone the repository](img/clone_a_repo.png)
 
@@ -69,9 +69,9 @@ Type in the URL of this repository (https://github.com/shneydor/amazon-sagemaker
 
 ## 5. Start the Workshop!
 
-In the File Browser, click `amazon-sagemaker-build-train-deploy` and open the folder `02_data_exploration_and_feature_eng`
+In the File Browser, click `amazon-sagemaker-mlops-startup-workshop` and open the folder `02_initial_notebook` folder
 
-Then, open the `02_data_exploration_and_feature_eng.ipynb` Jupyter notebook.
+Then, open the `02_initial_notebook.ipynb` Jupyter notebook.
 
 ![Open step 2 folder](img/smstudio_open_notebook.jpg)
 
