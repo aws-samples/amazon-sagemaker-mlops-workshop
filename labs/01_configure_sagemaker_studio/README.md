@@ -55,7 +55,7 @@ To enable Amazon SageMaker project templates needed for SageMaker Pipelines, cli
 
 ![SageMaker Studio](img/studio_edit_settings_1.png)
 
-Enable the "Enable Amazon SageMaker project templates and Amazon SageMaker JumpStart for this account" Options and click `submit`:
+Enable the `Enable Amazon SageMaker project templates and Amazon SageMaker JumpStart for this account` option and click `submit`:
 
 ![SageMaker Studio](img/studio_edit_settings_2.png)
 
