@@ -9,6 +9,7 @@ The Machine Learning process is an iterative process that consists of several st
 - Data ingestion, integration and preparation
 - Data visualization and analysis, feature engineering, model training and model evaluation
 - Model deployment, model monitoring and debugging
+- TODO - Add more details.
 
 The previous steps are generally repeated multiple times to better meet business goals following to changes in the source data, decrease in the perfomance of the model, etc.
 
