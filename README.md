@@ -18,7 +18,7 @@ This workshops consists of four modules:
 
 - [**Module 01**](labs/01_configure_sagemaker_studio/): Configure Amazon SageMaker Studio and Jupyter notebooks kernel.
 - [**Module 02**](labs/02_initial_notebook/): Transform the data and train a model inside a Jupyter nootebook.
-- [**Module 03**](labs/03_manual_sagemaker_process_train/): Transform the data and train a model using SageMaker managed training job.details.
+- [**Module 03**](labs/03_manual_sagemaker_process_train/): Transform the data and train a model using SageMaker managed training job.
 - [**Module 04**](labs/04_workflow_sm_pipelines/): Automate the whole dataset preparation and model training pipeline with SageMaker Pipelines.
 
 
