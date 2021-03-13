@@ -73,7 +73,7 @@ Click the Git icon (1 in the picture) and then select `Clone a repository` (step
 
 ![Clone the repository](img/smstudio_clone_repo_steps.jpg)
 
-Type in the URL of this repository (https://github.com/aws-samples/amazon-sagemaker-mlops-startup-workshop.git) and click `Clone`.
+Type in the URL of this repository (https://github.com/aws-samples/amazon-sagemaker-mlops-workshop.git) and click `Clone`.
 
 ![Clone the repository](img/clone_a_repo.png)
 
