@@ -17,6 +17,20 @@ Choose the Accept Terms & Login.
 
 ![Event Engine Terms and Conditions](img/event-engine-terms.png)
 
+Choose OTP.
+
+![Choose OTP](img/choose_top.png)
+
+Write the Email that the passcode will be sent to.
+
+![write your email](img/one_time_email_passcode.png)
+
+Copy the One-time email passcode from your inbox and paste it here.
+
+![Pasete One time code](img/paste_time_email_passcode.png)
+
+Set your name clicking on `Set Team Name`, and then choose `AWS Console`.
+
 ![Event Engine Dashboard](img/event-engine-dashboard.png)
 
 ## 2. Login to the **AWS Console**
