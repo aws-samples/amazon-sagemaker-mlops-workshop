@@ -5,10 +5,10 @@ Machine Learning Ops Workshop with Amazon SageMaker Pipelines: lab guides and ma
 
 The Machine Learning process is an iterative process that consists of several steps:
 
-- Identifying a business problem and the related Machine Learning problem
-- Data ingestion, integration and preparation
-- Data visualization and analysis, feature engineering, model training and model evaluation
-- Model deployment, model monitoring and debugging
+- Identifying a business problem and the related Machine Learning problem.
+- Data ingestion, integration and preparation.
+- Data visualization and analysis, feature engineering, model training and model evaluation.
+- Model deployment, model monitoring and debugging.
 
 These steps are regularly repeated during the lifetime of the machine learning application for multiple reasons: to include new features to adjust to changing business goals, to  retrain the models on new available data to keep high performnce of the model, to iteratively update the model architecture, and other. This workshop will demonstrate how to implement MLOps practice in your organisation and increase automation and improve quality and time-to-production.
 
