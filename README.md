@@ -1,5 +1,5 @@
 ## MLOps workshop with Amazon SageMaker
-
+Machine Learning Ops Workshop with Amazon SageMaker Pipelines: lab guides and materials.
 
 ## Introduction
 
@@ -11,6 +11,21 @@ The Machine Learning process is an iterative process that consists of several st
 - Model deployment, model monitoring and debugging
 
 These steps are regularly repeated during the lifetime of the machine learning application for multiple reasons: to include new features to adjust to changing business goals, to  retrain the models on new available data to keep high performnce of the model, to iteratively update the model architecture, and other. This workshop will demonstrate how to implement MLOps practice in your organisation and increase automation and improve quality and time-to-production.
+
+## Amazon SageMaker Pipelines - Managed machine learning CI/CD service 
+Amazon SageMaker Pipelines is the first purpose-built, easy-to-use continuous integration and continuous delivery (CI/CD) service for machine learning (ML). With SageMaker Pipelines, you can create, automate, and manage end-to-end ML workflows at scale.
+
+Orchestrating workflows across each step of the machine learning process (e.g. exploring and preparing data, experimenting with different algorithms and parameters, training and tuning models, and deploying models to production) can take months of coding.
+
+Since it is purpose-built for machine learning, SageMaker Pipelines helps you automate different steps of the ML workflow, including data loading, data transformation, training and tuning, and deployment. With SageMaker Pipelines, you can build dozens of ML models a week, manage massive volumes of data, thousands of training experiments, and hundreds of different model versions. You can share and re-use workflows to recreate or optimize models, helping you scale ML throughout your organization.
+
+Key Features:
+- Compose, manage, and reuse ML workflows
+- Choose the best models for deploying into production
+- Automatic tracking of models
+- Bring CI/CD to machine learning
+
+![SageMaker Pipelines](images/sagemaker_pipelines_intro.png)
 
 ## Modules
 
