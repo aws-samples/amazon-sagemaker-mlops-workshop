@@ -20,10 +20,10 @@ Orchestrating workflows across each step of the machine learning process (e.g. e
 Since it is purpose-built for machine learning, SageMaker Pipelines helps you automate different steps of the ML workflow, including data loading, data transformation, training and tuning, and deployment. With SageMaker Pipelines, you can build dozens of ML models a week, manage massive volumes of data, thousands of training experiments, and hundreds of different model versions. You can share and re-use workflows to recreate or optimize models, helping you scale ML throughout your organization.
 
 Key Features:
-- Compose, manage, and reuse ML workflows
-- Choose the best models for deploying into production
-- Automatic tracking of models
-- Bring CI/CD to machine learning
+- Compose, manage, and reuse ML workflows.
+- Choose the best models for deploying into production.
+- Automatic tracking of models.
+- Bring CI/CD to machine learning.
 
 ![SageMaker Pipelines](images/sagemaker_pipelines_intro.png)
 
