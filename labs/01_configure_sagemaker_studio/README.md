@@ -95,7 +95,7 @@ Type in the URL of this repository (https://github.com/aws-samples/amazon-sagema
 
 ## 5. Start the Workshop!
 
-In the File Browser, click `amazon-sagemaker-mlops-startup-workshop` and open the folder `02_initial_notebook` folder
+In the File Browser, double click `amazon-sagemaker-mlops-startup-workshop` and open the `02_initial_notebook` folder
 
 Then, open the `labs/02_initial_notebook.ipynb` Jupyter notebook.
 
