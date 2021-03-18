@@ -77,7 +77,7 @@ Now you'll see a "_Amazon SageMaker project templates enabled for this account_"
 
 ![SageMaker Studio](img/studio_edit_settings_3.png)
 
-Click "Open Studio": (the first time you open SageMaker Studio, this step will take a few minutes to launch)
+Click "Open Studio": (the first time you open SageMaker Studio **THIS STEP WILL TAKE FEW MINUTES TO LAUNCH**)
 
 ![SageMaker Studio](img/open_sm_studio_2.png)
 
@@ -106,7 +106,9 @@ Then, open the `labs/02_initial_notebook.ipynb` Jupyter notebook.
 
 Select the "Python 3 (TensorFlow 2.3 Python 3.7 CPU Optimized)" Kernel by clicking "No Kernel" at the bottom. 
 
-Then wait until the kernel has started, and start the workshop!
+Then wait until the kernel has started, **THIS STEP WILL TAKE FEW MINUTES TO LAUNCH**.
+
+Start the workshop!
 
 ![kernel_setup1](img/kernel_choice_1.png)
 
