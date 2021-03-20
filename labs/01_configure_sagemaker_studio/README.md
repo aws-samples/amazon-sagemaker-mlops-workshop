@@ -65,19 +65,8 @@ Now, open SageMaker Studio:
 
 ![SageMaker Studio](img/open_sm_studio_1.png)
 
-To enable Amazon SageMaker project templates needed for SageMaker Pipelines, click `Edit Settings`:
 
-![SageMaker Studio](img/studio_edit_settings_1.png)
-
-Enable the `Enable Amazon SageMaker project templates and Amazon SageMaker JumpStart for this account` option and click `submit`:
-
-![SageMaker Studio](img/studio_edit_settings_2.png)
-
-Now you'll see a "_Amazon SageMaker project templates enabled for this account_" message indicating settings were changed successfully:
-
-![SageMaker Studio](img/studio_edit_settings_3.png)
-
-Click "Open Studio": (the first time you open SageMaker Studio **THIS STEP WILL TAKE FEW MINUTES TO LAUNCH**)
+Click "Open Studio": (the first time you open SageMaker Studio this step might take few minutes to launch)
 
 ![SageMaker Studio](img/open_sm_studio_2.png)
 
@@ -106,7 +95,7 @@ Then, open the `labs/02_initial_notebook.ipynb` Jupyter notebook.
 
 Select the "Python 3 (TensorFlow 2.3 Python 3.7 CPU Optimized)" Kernel by clicking "No Kernel" at the bottom. 
 
-Then wait until the kernel has started, **THIS STEP WILL TAKE FEW MINUTES TO LAUNCH**.
+Then wait until the kernel has started. This step might take few minutes to launch.
 
 Start the workshop!
 
