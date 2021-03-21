@@ -3,7 +3,14 @@ Machine Learning Ops Workshop with Amazon SageMaker Pipelines: lab guides and ma
 
 ## Introduction
 
-The Machine Learning process is an iterative process that consists of several steps:
+In machine learning, you "teach" a computer to make predictions, or inferences. First, you use an algorithm and example data to train a model. Then you integrate your model into your application to generate inferences in real time and at scale. In a production environment, a model typically learns from millions of example data items and produces inferences in hundreds to less than 20 milliseconds.
+
+The following diagram illustrates the typical workflow for creating a machine learning model:
+
+![ml-concepts](images/ml-concepts-10.png)
+
+
+As the diagram illustrates, you typically perform the following activities:
 
 - Identifying a business problem and the related Machine Learning problem.
 - Data ingestion, integration and preparation.
