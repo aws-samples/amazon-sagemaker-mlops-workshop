@@ -13,7 +13,7 @@ _Please logout of all AWS Console sessions in all browser tabs._
 ## 1. Login to the Workshop Portal (aka Event Engine). 
 Open https://dashboard.eventengine.run/
 
-Using the hash code you got by email, paste the event-hash-login that will be shared with you in the browser window. 
+Using the hash code you got from workshop admins, paste the event-hash-login that will be shared with you in the browser window. 
 
 Choose the Accept Terms & Login. 
 
