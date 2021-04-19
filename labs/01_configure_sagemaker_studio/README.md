@@ -29,7 +29,7 @@ Write the Email that the passcode will be sent to, and choose Send passcode.
 
 Copy the One-time email passcode from your inbox and paste it here.
 
-![Pasete One time code](img/paste_time_email_passcode.png)
+![Paste One time code](img/paste_time_email_passcode.png)
 
 Set your name clicking on Set Team Name, and then choose AWS Console.
 
