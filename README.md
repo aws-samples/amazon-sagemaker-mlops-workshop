@@ -42,7 +42,7 @@ This workshops consists of five modules:
 - [**Module 02**](labs/02_initial_notebook/): Transform the data and train a model inside a Jupyter nootebook.
 - [**Module 03**](labs/03_manual_sagemaker_process_train/): Transform the data and train a model using SageMaker managed training job.
 - [**Module 04**](labs/04_workflow_sm_pipelines/): Automate the whole dataset preparation and model training pipeline with SageMaker Pipelines.
-- [**Module 05**](labs/05_model_monitor/) (Optional): Analyze a training dataset to generate baseline constraints and monitor a live endpoint for violations against constraints with SageMaker Model Monitor.
+- [**Module 05**](labs/05_model_monitor/) (**Optional**): Analyze a training dataset to generate baseline constraints and monitor a live endpoint for violations against constraints with SageMaker Model Monitor.
 
 
 You must comply with the order of modules, since the outputs of a module are inputs of the following one.
