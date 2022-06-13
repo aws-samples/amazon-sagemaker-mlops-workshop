@@ -31,7 +31,7 @@ Copy the One-time email passcode from your inbox and paste it here.
 
 ![Paste One time code](img/paste_time_email_passcode.png)
 
-Set your name clicking on Set Team Name, and then choose AWS Console.
+Choose AWS Console.
 
 ![Event Engine Dashboard](img/event-engine-dashboard.png)
 
@@ -63,12 +63,12 @@ In the AWS Console search bar, type `SageMaker` and select `Amazon SageMaker` to
 
 ![SageMaker Console](img/setup_aws_console.png). 
 
-Now, open SageMaker Studio:
+Now, click on `Studio` and then on `Launch SageMaker Studio`:
 
 ![SageMaker Studio](img/open_sm_studio_1.png)
 
 
-Click "Open Studio": (the first time you open SageMaker Studio this step might take few minutes to launch)
+Now, right-click the `Launch app` button and choose `Studio` (the first time you open SageMaker Studio this step might take few minutes to launch)
 
 ![SageMaker Studio](img/open_sm_studio_2.png)
 
