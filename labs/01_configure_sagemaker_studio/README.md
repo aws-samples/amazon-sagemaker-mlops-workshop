@@ -68,7 +68,7 @@ Now, click on `Studio` and then on `Launch SageMaker Studio`:
 ![SageMaker Studio](img/open_sm_studio_1.png)
 
 
-Now, right-click the `Launch app` button and choose `Studio` (the first time you open SageMaker Studio this step might take few minutes to launch)
+Now, click the `Launch app` button and right-click `Studio` and **Open Link in New Tab** (the first time you open SageMaker Studio this step might take few minutes to launch)
 
 ![SageMaker Studio](img/open_sm_studio_2.png)
 
