@@ -21,7 +21,7 @@ Choose the Accept Terms & Login.
 
 Choose OTP.
 
-![Choose OTP](img/choose_top.png)
+![Choose OTP](img/choose_otp.png)
 
 Write the Email that the passcode will be sent to, and choose Send passcode.
 
