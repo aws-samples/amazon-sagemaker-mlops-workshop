@@ -73,7 +73,7 @@ Now, click on `StudioDomain`:
 
 Now, click the `Launch` button and click `Studio` (the first time you open SageMaker Studio this step might take few minutes to launch).
 
-![SageMaker Studio](img/open_sm_studio_2.png)
+![SageMaker Studio](img/open_sm_studio_domain_3.png)
 
 
 ## 4. Clone the GitHub Repo
