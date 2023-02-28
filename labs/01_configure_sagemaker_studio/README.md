@@ -63,7 +63,7 @@ In the AWS Console search bar, type `SageMaker` and select `Amazon SageMaker` to
 
 ![SageMaker Console](img/setup_aws_console.png). 
 
-Now, click on `Domains` and then on `StudioDomain`:
+Now, click on `Domains`:
 
 ![SageMaker Studio](img/open_sm_studio_1.png)
 
