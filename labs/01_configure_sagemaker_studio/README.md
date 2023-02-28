@@ -67,6 +67,9 @@ Now, click on `Domains`:
 
 ![SageMaker Studio](img/open_sm_studio_domain_1.png)
 
+Now, click on `StudioDomain`:
+
+![SageMaker Studio](img/open_sm_studio_domain_2.png)
 
 Now, click the `Launch app` button and right-click `Studio` and **Open Link in New Tab** (the first time you open SageMaker Studio this step might take few minutes to launch).
 
