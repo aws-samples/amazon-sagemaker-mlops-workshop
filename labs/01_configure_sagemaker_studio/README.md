@@ -65,7 +65,7 @@ In the AWS Console search bar, type `SageMaker` and select `Amazon SageMaker` to
 
 Now, click on `Domains`:
 
-![SageMaker Studio](img/open_sm_studio_1.png)
+![SageMaker Studio](img/open_sm_studio_domain_1.png)
 
 
 Now, click the `Launch app` button and right-click `Studio` and **Open Link in New Tab** (the first time you open SageMaker Studio this step might take few minutes to launch).
