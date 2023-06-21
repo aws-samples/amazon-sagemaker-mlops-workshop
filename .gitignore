@@ -31,6 +31,13 @@
 # Virtualenv
 .venv
 
-# Lab01
-labs/01_initial_notebook/*
-!labs/01_initial_notebook/*.ipynb
+# Labs
+labs/0*/data
+labs/0*/model
+labs/**/CaliforniaHousing
+labs/**/*.tgz
+labs/**/*.py
+!labs/**/*.ipynb
+!labs/**/code
+!labs/**/img/*.jpg
+
