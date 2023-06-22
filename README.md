@@ -1,7 +1,7 @@
 ## MLOps workshop with Amazon SageMaker
 Machine Learning Ops Workshop with Amazon SageMaker Pipelines: lab guides and materials.
 
-For full details refer to Workshop Studio: https://catalog.us-east-1.prod.workshops.aws/workshops/47906c57-854e-4c73-abdb-6b49fe364370
+**For full details please refer to Workshop Studio**: https://catalog.us-east-1.prod.workshops.aws/workshops/47906c57-854e-4c73-abdb-6b49fe364370
 
 ## Introduction
 
