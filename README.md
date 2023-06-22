@@ -1,6 +1,8 @@
 ## MLOps workshop with Amazon SageMaker
 Machine Learning Ops Workshop with Amazon SageMaker Pipelines: lab guides and materials.
 
+For full details refer to Workshop Studio: https://catalog.us-east-1.prod.workshops.aws/workshops/47906c57-854e-4c73-abdb-6b49fe364370
+
 ## Introduction
 
 In machine learning, you "teach" a computer to make predictions, or inferences. First, you use an algorithm and example data to train a model. Then you integrate your model into your application to generate inferences in real time and at scale. In a production environment, a model typically learns from millions of example data items and produces inferences in hundreds to less than 20 milliseconds.
