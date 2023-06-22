@@ -74,10 +74,6 @@ Once you've chosen a region, you should create all of the resources for this wor
 ![Region selection screenshot](./images/region-selection.png)
 
 
-## Getting started
-
-Once you are ready to go, please start with [**Module 01**](labs/01_configure_sagemaker_studio/).
-
 ## Security
 
 See [CONTRIBUTING](CONTRIBUTING.md#security-issue-notifications) for more information.
